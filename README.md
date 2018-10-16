@@ -10,10 +10,16 @@ Table of Contents
     * [Install Git](#install-git)
   * [Getting Started](#getting-started)
     * [Run Notebooks](#run-notebooks))
-    * [Starting up Virtual Machine](Starting-up-Virtual-Machine)
-  * [Part 1: Introduction](Intro-Relation-DB.ipynb)
-      * 1.1 Import Things to Remember About Python
-      * 1.2 Variables
+  * [Part 1: Data Types and Operators](Intro-Data-Types-and-Operators.ipynb)
+      * 1.1 Quick Intro to Python
+      * 1.2 Import Things to Remember About Python
+      * 1.3 Arithmetic Operations
+      * 1.4 Variables
+      * 1.5 How Can Variable Names Can Help Make Code Easier to Understand
+      * 1.6 Strings
+      * 1.7 Operators for Strings
+      * 1.8 Quiz Section
+  * [Part 1: Solutions](Intro-Data-Types-and-Operators-Solution.ipynb)
 
 
 ## Notebooks Installation
