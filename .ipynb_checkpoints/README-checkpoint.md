@@ -16,9 +16,10 @@ Table of Contents
       * 1.3 Arithmetic Operations
       * 1.4 Variables
       * 1.5 How Can Variable Names Can Help Make Code Easier to Understand
-      * 1.6 Strings
-      * 1.7 Operators for Strings
-      * 1.8 Quiz Section
+      * 1.6 Types and Casting
+      * 1.7 Strings
+      * 1.8 Operators for Strings
+      * 1.9 Quiz Section
   * [Part 1: Solutions](Intro-Data-Types-and-Operators-Solution.ipynb)
 
 
