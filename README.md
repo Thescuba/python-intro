@@ -23,7 +23,7 @@ Table of Contents
   * [Part 1: Solutions](Intro-Data-Types-and-Operators-Solution.ipynb)
 
 
-## Notebooks Installation
+## Python and Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several
 packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/).
 
