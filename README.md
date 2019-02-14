@@ -21,6 +21,19 @@ Table of Contents
       * 1.8 Operators for Strings
       * 1.9 Quiz Section
   * [Part 1: Solutions](Intro-Data-Types-and-Operators-Solution.ipynb)
+  * [Part 2: Data Strutures](Data-Structures.ipynb)
+      * 2.1 List
+       * 2.1.1 Creating a List
+       * 2.1.2 Indexing with List
+       * 2.1.3 Slicing with List
+      * 2.2 Membership Operators
+      * 1.3 Arithmetic Operations
+      * 1.4 Variables
+      * 1.5 How Can Variable Names Can Help Make Code Easier to Understand
+      * 1.6 Types and Casting
+      * 1.7 Strings
+      * 1.8 Operators for Strings
+      * 1.9 Quiz Section
 
 
 ## Python and Notebooks Installation
