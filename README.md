@@ -28,6 +28,16 @@ Table of Contents
        * 2.1.3 Slicing with List
        * 2.1.4 Functions
       * 2.2 Membership Operators
+      * 2.3 Tuples and Sets
+       * 2.3.1 What are Tuples
+       * 2.3.2 Tuple Unpacking
+       * 2.3.3 Sets
+      * 2.4 Dictionaries and Identity Operators
+       * 2.4.1 Dictionaries
+       * 2.4.2 When to use Dictionaries?
+      * 2.5 Compound Data Structures
+      * 2.6 Cheatsheet
+      * 2.7 Quiz Section
 
 
 ## Python and Notebooks Installation
