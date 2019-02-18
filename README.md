@@ -38,6 +38,7 @@ Table of Contents
       * 2.5 Compound Data Structures
       * 2.6 Cheatsheet
       * 2.7 Quiz Section
+    
 
 
 ## Python and Notebooks Installation
