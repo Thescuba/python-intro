@@ -38,7 +38,7 @@ Table of Contents
       * 2.5 Compound Data Structures
       * 2.6 Cheatsheet
       * 2.7 Quiz Section
-    
+   * [Part 3: Control Flow](Control-Flow.ipynb)
 
 
 ## Python and Notebooks Installation
