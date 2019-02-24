@@ -39,6 +39,18 @@ Table of Contents
       * 2.6 Cheatsheet
       * 2.7 Quiz Section
    * [Part 3: Control Flow](Control-Flow.ipynb)
+      * 3.1 Conditional Statements
+       * 3.1.1 Conditional Statements Intro
+       * 3.1.2 Complex Boolean Expressions
+       * 3.1.3 Bad examples
+       * 3.1.4 Truth Testing
+      * 3.2 For Loops
+       * 3.2.1 For Loops Intro
+       * 3.2.2 Range Function
+       * 3.2.3 Creating and Modifying Lists
+       * 3.2.4 Building Dictionaries
+       * 3.2.5 Iterating Through Dictionaries
+      * 3.3 While Loops
 
 
 ## Python and Notebooks Installation
