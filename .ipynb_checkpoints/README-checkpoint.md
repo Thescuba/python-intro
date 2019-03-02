@@ -54,8 +54,16 @@ Table of Contents
        * 3.3.1 While Loops Intro
        * 3.3.2 Components of a While Loop
        * 3.3.3 Factorial with While Loops vs For Loop
-
-
+      * 3.4 Break and Continue
+       * 3.4.1 Break
+       * 3.4.2 Continue
+      * 3.5 Zip and Enumerate
+       * 3.5.1 Zip
+       * 3.5.2
+      * 3.6 List Comprehensions
+       * 3.6.1 List Comprehensions Basics
+       * 3.6.2 Conditionals in List Comprehensions
+      * 3.7 Quiz Section
 ## Python and Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several
 packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/).
