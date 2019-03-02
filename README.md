@@ -54,6 +54,7 @@ Table of Contents
        * 3.3.1 While Loops Intro
        * 3.3.2 Components of a While Loop
        * 3.3.3 Factorial with While Loops vs For Loop
+      * 3.4 Break and Continue
 
 
 ## Python and Notebooks Installation
