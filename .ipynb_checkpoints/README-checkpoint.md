@@ -38,6 +38,7 @@ Table of Contents
       * 2.5 Compound Data Structures
       * 2.6 Cheatsheet
       * 2.7 Quiz Section
+   * [Part 2: Solutions](Data-Structures-Solutions.ipynb)
    * [Part 3: Control Flow](Control-Flow.ipynb)
       * 3.1 Conditional Statements
        * 3.1.1 Conditional Statements Intro
@@ -64,14 +65,29 @@ Table of Contents
        * 3.6.1 List Comprehensions Basics
        * 3.6.2 Conditionals in List Comprehensions
       * 3.7 Quiz Section
+   * [Part 3: Solution](Control-Flow-Solutions.ipynb)
+   * [Part 4: Functions](Functions.ipynb)
+      * 4.1 Defining Functions
+       * 4.1.1 Functions Examples
+       * 4.1.2 Defining Functions
+       * 4.1.3 Default Arguments
+      * 4.2 Variable Scope
+      * 4.3 Documentation
+      * 4.4 Lambda Expression
+       * 4.4.1 Lambda Expression Intro
+       * Components of a Lambda Function
+      * 4.5 Quiz Section
+     * [Part 4: Solutions](Functions-Solutions.ipynb)
 ## Python and Notebooks Installation
-This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several
-packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/).
+This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install Anaconda at (https://www.anaconda.com/download/).
+
+If you are new to Anaconda you can view the notebook at 
+[Anaconda](Anaconda.ipynb)
 
 ## Install Git
 Follow the instructions at (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Run Notebooks
-1. Clone the repository to a desired location (E.g. `git clone https://github.com/Thescuba/data-science.git`)
+1. Clone the repository to a desired location (E.g. `https://github.com/stang84/python-intro`)
 2. Open up jupyter labs or jupyter notebook either though anaconda navigator or terminal. 
 3. Go to the repository directory

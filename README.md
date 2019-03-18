@@ -79,13 +79,15 @@ Table of Contents
       * 4.5 Quiz Section
      * [Part 4: Solutions](Functions-Solutions.ipynb)
 ## Python and Notebooks Installation
-This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several
-packages and applications that need to be installed. It is recommended to install anaconda at (https://www.anaconda.com/download/).
+This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install Anaconda at (https://www.anaconda.com/download/).
+
+If you are new to Anaconda you can view the notebook at 
+[Anaconda](Anaconda.ipynb)
 
 ## Install Git
 Follow the instructions at (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Run Notebooks
-1. Clone the repository to a desired location (E.g. `git clone https://github.com/Thescuba/data-science.git`)
+1. Clone the repository to a desired location (E.g. `https://github.com/stang84/python-intro`)
 2. Open up jupyter labs or jupyter notebook either though anaconda navigator or terminal. 
 3. Go to the repository directory
