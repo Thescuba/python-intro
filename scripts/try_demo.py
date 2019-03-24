@@ -33,17 +33,3 @@
 #         print('That\'s not a valid number!')
 #     finally:
 #         print('\nAttempted Input\n')
-
-# # example of else and finally 
-# q = 0
-# while q < 2:
-#     try:
-#         x = int(input('Enter a number: '))     
-#     except Exception as e:
-#         print('That\'s not a valid number!')
-#         print('An error occured: ', e)
-#     else:
-#         print('Number is Valid')
-#     finally:
-#         print('\nAttempted Input\n')
-#     q +=1
