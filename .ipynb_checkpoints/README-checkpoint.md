@@ -78,6 +78,38 @@ Table of Contents
        * Components of a Lambda Function
       * 4.5 Quiz Section
      * [Part 4: Solutions](Functions-Solutions.ipynb)
+   * [Part 5: Scripting](Scripting.ipynb)
+     * 5.1 Python Installation
+      * 5.1.1 Before Python Installation
+      * 5.1.2 Python Installation
+     * 5.2 Running Scripts
+     * 5.3 Writing your own script
+      * 5.3.1 Programming Environment Setup
+      * 5.3.2 Write a Script of Your Own
+     * 5.4 Scripting with Raw Input
+     * 5.5 Errors and Exceptions
+      * 5.5.1 What are Errors and Exceptions?
+      * 5.5.2 Try and Except Statements
+      * 5.5.3 Accessing Error Messages
+     * 5.6 Reading and Writing Files
+      * 5.6.1 Reading Files
+      * 5.6.2 Writing Files
+      * 5.6.3 Reading Line by Line
+     * 5.7 Importing Local Scripts
+      * 5.7.1 how to Import Local Scripts
+      * 5.7.2 Using Main Block
+     * 5.8 Python Standard Library and Importing
+      * 5.8.1 Importing Standard Modules
+      * 5.8.2 Our Favourite Modules
+      * 5.8.3 Techniques for Importing Modules
+      * 5.8.4 Modules, Packages, and Names
+      * 5.8.5 Third-Party Libraries
+      * 5.8.6 Using a requirements.txt File
+      * 5.8.7 Getting the Information you Need to Know
+      * 5.8.8 How to Search
+     * 5.9 Quiz Section
+     * [Part 5: Solutions](Scripting-Solutions.ipynb)
+
 ## Python and Notebooks Installation
 This repository contains Jupyter Notebooks to follow along with the lectures. However, there are several packages and applications that need to be installed. It is recommended to install Anaconda at (https://www.anaconda.com/download/).
 
